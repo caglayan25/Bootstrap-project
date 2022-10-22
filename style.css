@@ -1,0 +1,72 @@
+.imgslider {
+    height: 600px;
+}
+
+body{
+    padding-top: 50px !important;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(221, 215, 215) !important;
+   
+
+
+    
+}
+
+.ayrac{
+    
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+    
+}
+
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -60px;
+    font-size: 40px;
+    border: 10px solid  rgb(221, 215, 215);
+    background-color:  rgb(221, 215, 215);
+}
+
+.ibeyaz:hover{
+    color: red;
+  transition: 1.5s;
+}
+
+.contbaslik:hover{
+    color: rgb(0, 60, 255);
+  transition: 1s;
+  opacity: 0.5;
+}
+
+.ekipcard:hover{
+    opacity: 0.6;
+    transition: 1s;
+
+}
+
+.imgg{
+    height: 140px;
+    overflow-y: hidden;
+    border-radius: 100px;
+    margin-bottom: 20px;
+}
+
+.imgg:hover{
+    opacity: .7;
+    transition: 1s;
+}
+
+
+.formcontainer{
+    margin-left: 250px;
+    
+    
+}
+
+.btn{
+    margin-left: 500px;
+
+}
+
